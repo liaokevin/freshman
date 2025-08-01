@@ -1,14 +1,18 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
+在人工智能的浪潮中，我们都是 Freshman——怀着好奇、渴望与探索精神，走进这个前所未有的世界。
+这里，信息以指数级增长，工具每天推陈出新，思维方式正被悄然重塑。
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+我们相信，AI 时代的竞争，不在于信息的多少，而在于你是否能用不同的视角看待问题。
+换一种思路，你会发现——原来解决问题的路径可以更短，创造价值的方式可以更多，人与技术的关系可以更亲近。
 
-Head over to the [theme's documentation](https://github.com/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+AI Freshman 导航，正是这样一个起点。
+我们为你聚合全球优质的 AI 工具与资源，精挑细选，分类清晰，让你在浩如烟海的信息中快速找到最有价值的方向。
+无论你是初学者，还是有经验的创作者，这里都是你探索 AI 世界的第一站。
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+欢迎加入，我们一起，用不一样的思路，探索这个全新的世界。
