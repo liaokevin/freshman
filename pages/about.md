@@ -5,6 +5,7 @@ permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
+
 在人工智能的浪潮中，我们都是 Freshman——怀着好奇、渴望与探索精神，走进这个前所未有的世界。
 这里，信息以指数级增长，工具每天推陈出新，思维方式正被悄然重塑。
 
